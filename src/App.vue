@@ -13,7 +13,7 @@ import "./assets/main.css";
     </header>
 
     <main>
-      <div class="grid grid-flow-row">
+      <div>
         <SearchSection />
       </div>
     </main>
